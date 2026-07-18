@@ -3,7 +3,7 @@
 **Alternant OPS / DevOps, Administrateur Systèmes & Réseaux**
 Mastère MICSI (Manager en Infrastructure et Cybersécurité des SI), CESI Orléans
 
-📍 45480, IZY · ✉️ damien.banachpro@outlook.fr · 🚗 Permis B véhiculé
+📍 45480, Ingré · ✉️ damien.banachpro@outlook.fr · 🚗 Permis B véhiculé
 
 ---
 
@@ -75,14 +75,46 @@ Windows Server · Linux · Active Directory · ESX/ESXi · MSSQL
 **Autres**
 Anglais B2 · Gestion de tickets/incidents
 
+**Niveaux (auto-évaluation sur 5)**
+
+```mermaid
+xychart-beta horizontal
+    title "Hard Skills"
+    x-axis ["Observabilité et Monitoring", "Administration Linux Avancée", "Définition de KPI", "Méthodologies management", "Conteneurisation", "Automatisation Ansible", "Administration Réseau"]
+    y-axis "Niveau" 0 --> 5
+    bar [5, 4, 4, 4, 3, 3, 3]
+```
+
 ---
 
 ## Savoir-être
 
 Entreprenant · À l'écoute · Curieux · Esprit d'équipe · Persévérant
 
+**Niveaux (auto-évaluation sur 5)**
+
+```mermaid
+xychart-beta horizontal
+    title "Soft Skills"
+    x-axis ["Esprit d'équipe", "Rigueur documentaire", "Veille technologique", "Gestion du temps", "Troubleshooting", "Adaptabilité"]
+    y-axis "Niveau" 0 --> 5
+    bar [5, 4, 4, 4, 3, 3]
+```
+
 ---
 
 ## Centres d'intérêt
 
 Sport mécanique · Cinéma · Jeux vidéo
+
+---
+
+## Projet professionnel
+
+Feuille de route de mon évolution de carrière :
+
+| Horizon | Cible |
+|---|---|
+| Court terme | Administrateur DevOps |
+| Moyen terme | Product Owner |
+| Long terme | Engineering Manager |
