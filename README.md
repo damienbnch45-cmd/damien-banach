@@ -61,6 +61,20 @@ Outil personnel visant à traiter et analyser les données de télémétrie issu
 
 ---
 
+## Parcours
+
+```mermaid
+timeline
+    title Parcours scolaire et professionnel
+    2019 : 🎓 Baccalauréat Scientifique
+    2019 - 2022 : 🎓 Licence Physique : 💼 Job étudiant, vendeur sur un marché
+    2022 - 2024 : 🎓 BTS SIO SISR : 💼 Technicien de proximité, Antares
+    2024 - 2025 : 🎓 Bachelor Administrateur Système et Réseau : 💼 Administrateur réseaux, Cloud Temple
+    2025 - 2027 : 🎓 Mastère MICSI : 💼 Administrateur Système et Réseau / DevOps, Relyens
+```
+
+---
+
 ## Compétences
 
 **Réseau & Sécurité**
