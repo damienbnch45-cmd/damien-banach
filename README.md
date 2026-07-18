@@ -82,7 +82,7 @@ xychart-beta horizontal
     title "Hard Skills"
     x-axis ["Observabilité et Monitoring", "Administration Linux Avancée", "Définition de KPI", "Méthodologies management", "Conteneurisation", "Automatisation Ansible", "Administration Réseau"]
     y-axis "Niveau" 0 --> 5
-    bar [5, 4, 4, 4, 3, 3, 3]
+    bar [5, 3,5, 4, 4, 3, 3, 3]
 ```
 
 ---
@@ -100,15 +100,6 @@ xychart-beta horizontal
     y-axis "Niveau" 0 --> 5
     bar [5, 4, 4, 4, 3, 3]
 ```
-
----
-
-## Centres d'intérêt
-
-Sport mécanique · Cinéma · Jeux vidéo
-
----
-
 ## Projet professionnel
 
 Feuille de route de mon évolution de carrière :
@@ -118,3 +109,11 @@ Feuille de route de mon évolution de carrière :
 | Court terme | Administrateur DevOps |
 | Moyen terme | Product Owner |
 | Long terme | Engineering Manager |
+
+---
+
+## Centres d'intérêt
+
+Sport mécanique · Cinéma · Jeux vidéo
+
+---
