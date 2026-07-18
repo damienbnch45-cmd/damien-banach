@@ -3,7 +3,7 @@
 **Alternant OPS / DevOps, Administrateur Systèmes & Réseaux**
 Mastère MICSI (Manager en Infrastructure et Cybersécurité des SI), CESI Orléans
 
-📍 45480, Ingré · ✉️ damien.banachpro@outlook.fr · 🚗 Permis B véhiculé
+📍 Orléans · ✉️ damien.banachpro@outlook.fr · 🚗 Permis B véhiculé
 
 ---
 
